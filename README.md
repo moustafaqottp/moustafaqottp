@@ -1,5 +1,40 @@
 <h1 align="center">Hi 👋, I'm Moustafa Qottp</h1>
 <h3 align="center">Deeply interested in Systems Administration and Cyber Security</h3>
+<div align="center">
+
+![Systems Administration](https://shields.io)
+![Cyber Security](https://shields.io)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+Hello! I'm **Moustafa Mahmoud**, deeply interested in Systems Administration and Cyber Security. Currently enhancing my skills in data analysis, log management, network monitoring, and managing software infrastructure.
+
+---
+
+### 🛠️ Skills & Tools
+
+| Domain | Technologies & OS |
+| :--- | :--- |
+| **Systems & Networking** | `Kali Linux` `Ubuntu` `Windows Server` |
+| **SIEM & Monitoring** | `Splunk` `Splunk Forwarder` `Log Analysis` |
+| **Development & Version Control** | `Git` `GitHub` `VS Code` |
+
+---
+
+<div align="center">
+
+### 🚀 Core Competencies
+
+![Linux](https://shields.io)
+![Ubuntu](https://shields.io)
+![Splunk](https://shields.io)
+![Python](https://shields.io)
+![Git](https://shields.io)
+
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moustafaqottp&label=Profile%20views&color=0e75b6&style=flat" alt="moustafaqottp" /> </p>
 
@@ -23,12 +58,3 @@
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <br/>
-
-<div align="center">
-
-### 📊 GitHub Activity
-![GitHub Metrics](https://lecoq.io)
-
-
-</div>
-

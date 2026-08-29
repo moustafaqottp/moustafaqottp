@@ -2,9 +2,9 @@
 
 # Moustafa Mahmoud
 
-[![Github](https://shields.io)](https://github.com/moustafaqottp)
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/moustafa-qottp/)
-[![Gmail](https://shields.io)](mailto:moustafa.qottp@gmail.com)
+![Github](https://shields.io)(https://github.com/moustafaqottp)
+[[LinkedIn](https://shields.io)](https://www.linkedin.com/in/moustafa-qottp/)
+[[Gmail](https://shields.io)](mailto:moustafa.qottp@gmail.com)
 
 </div>
 

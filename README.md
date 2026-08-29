@@ -2,9 +2,7 @@
 
 # Moustafa Mahmoud
 
-![Github](https://shields.io)(https://github.com/moustafaqottp)
-[[LinkedIn](https://shields.io)](https://www.linkedin.com/in/moustafa-qottp/)
-[[Gmail](https://shields.io)](mailto:moustafa.qottp@gmail.com)
+![Github](https://shields.io) ![LinkedIn](https://shields.io) ![Gmail](https://shields.io)
 
 </div>
 
@@ -28,10 +26,10 @@ Hello! I'm **Moustafa Mahmoud**, deeply interested in Systems Administration and
 <div align="center">
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://vercel.app)
+<img src="https://vercel.app" alt="GitHub Stats" />
 
 <br/>
 
-![Top Langs](https://vercel.app)
+<img src="https://vercel.app" alt="Top Langs" />
 
 </div>

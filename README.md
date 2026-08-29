@@ -2,10 +2,6 @@
 <h3 align="center">Deeply interested in Systems Administration and Cyber Security</h3>
 <div align="center">
 
-![Systems Administration](https://shields.io)
-![Cyber Security](https://shields.io)
-
-</div>
 
 ---
 
@@ -23,16 +19,6 @@ Hello! I'm **Moustafa Mahmoud**, deeply interested in Systems Administration and
 | **Development & Version Control** | `Git` `GitHub` `VS Code` |
 
 ---
-
-<div align="center">
-
-### 🚀 Core Competencies
-
-![Linux](https://shields.io)
-![Ubuntu](https://shields.io)
-![Splunk](https://shields.io)
-![Python](https://shields.io)
-![Git](https://shields.io)
 
 </div>
 

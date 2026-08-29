@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Moustafa Qottp</h1>
-<h3 align="center">Deeply interested in Systems Administration and Cyber Security</h3>
 <div align="center">
-
 
 ---
 
 ### 👨‍💻 About Me
-Hello! I'm **Moustafa Mahmoud**, deeply interested in Systems Administration and Cyber Security. Currently enhancing my skills in data analysis, log management, network monitoring, and managing software infrastructure.
+Deeply interested in Systems Administration and Cyber Security. Currently enhancing my skills in data analysis, log management, network monitoring, and managing software infrastructure.
 
 ---
 

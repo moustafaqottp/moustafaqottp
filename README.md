@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**moustafaqottp/moustafaqottp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Moustafa Mahmoud
 
-Here are some ideas to get you started:
+[![Github](https://shields.io)](https://github.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Gmail](https://shields.io)](mailto:moustafa.qottp@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### 👨‍💻 About Me
+Hello! I'm **Moustafa Mahmoud**, deeply interested in Systems Administration and Cyber Security. Currently enhancing my skills in data analysis, log management, network monitoring, and managing software infrastructure.
+
+---
+
+### 🛠️ Skills & Tools
+
+| Domain | Technologies & OS |
+| :--- | :--- |
+| **Systems & Networking** | `Kali Linux` `Ubuntu` `Windows Server` |
+| **SIEM & Monitoring** | `Splunk` `Splunk Forwarder` `Log Analysis` |
+| **Development & Version Control** | `Git` `GitHub` `VS Code` |
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+![GitHub Stats](https://vercel.app)
+
+<br/>
+
+![Top Langs](https://vercel.app)
+
+</div>

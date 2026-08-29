@@ -27,7 +27,8 @@
 <div align="center">
 
 ### 📊 GitHub Activity
-<img src="https://lecoq.io" alt="GitHub Metrics" width="100%" />
+![GitHub Metrics](https://lecoq.io)
+
 
 </div>
 
